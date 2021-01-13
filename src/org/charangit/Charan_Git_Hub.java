@@ -16,9 +16,10 @@ public class Charan_Git_Hub {
 		
 		System.out.println("VishalAkka");
 		
-		System.out.println("Vishal Allu");
+		System.out.println("Delhi");
 		
-		System.out.println("Vishal Sister1");
+		System.out.println("Singaram");
+		
 	}
 
 }
